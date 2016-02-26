@@ -9,7 +9,7 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
-analytics: 'UA-MYANALYTICS'
+analytics: 'UA-74364650-1'
 disqus: mydisqus
 facebook: myfacebook
 twitter: mytwitter
